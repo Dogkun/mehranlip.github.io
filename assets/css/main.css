@@ -4821,11 +4821,11 @@ a img {
 }
 
 #particles-js {
-    background: #000000;
+    background: #9214cc;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0c011e, #1b1424);
+    background: -webkit-linear-gradient(to right, #812bb2, #6a14cc);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0f0a18, #000000);
+    background: linear-gradient(to right, #7c2bb2, #5b14cc);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     display: flex;
